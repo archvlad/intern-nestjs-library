@@ -1,3 +1,10 @@
+# Запуск
+`docker compose up`
+
+Сервер запуститься на http://localhost:3000.
+
+Swagger UI будет доступен по http://localhost:3000/documentation
+
 # Library
 The library API documentation
 
